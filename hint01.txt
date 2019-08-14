@@ -1,0 +1,11 @@
+ You should be able to complete all of these tasks with the following commands:
+ * cd
+ * find
+ * cp
+ * cat
+ * ls
+ * wc
+ * mkdir
+ * sort
+ * touch
+ * grep

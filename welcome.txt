@@ -1,0 +1,24 @@
+Greetings!
+
+Welcome to the command line maze! I'm hoping that you'll find these puzzles far more
+entertaining than listening to me ramble on about various commands. I hope that this 
+will encourage you to test things out, and use some creative problem-solving to figure 
+out where to go next.
+
+If you're reading this on Github.com, you'll need to clone the repository and start
+from there. Open up a Terminal window, or a Git-Bash window, and navigate to the Desktop
+by issuing the following commands:
+
+`cd ~/Desktop`
+
+Now, clone the repository by issuing the following additional commands:
+
+`git clone https://github.com/dd388/command-line-maze`
+
+Go into the repository:
+
+`cd command-line-maze`
+
+Open up the file `question00.txt` in whatever text editor you desire, and let's start
+exploring!
+

@@ -1,0 +1,8 @@
+You can use the following commands:
+* find
+* wc
+* uniq
+* sort
+* ls
+* cut
+* tail

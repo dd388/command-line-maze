@@ -1,0 +1,19 @@
+Hooray, we're going to do a thing!
+
+We'll go through this exercise together, and afterwards you will be friends with pipes. GOOD FRIENDS
+with pipes.
+
+You're on a mission to find the folder that matches the following criteria:
+(Remember, always look in the puzzle0 folder.)
+
+* The folder name should have an uppercase k in it
+* The folder name has the numbers 607 in it
+* The folder name either has an upper or lowercase b in it
+* The folder name does not have Bass in it
+* The folder name has FLX in it
+
+Go to that folder and find the rtf file with the longest number of lines, 
+and you will find your next clue in the last 30 lines.
+
+(If you're feeling fancy, you could figure out how to go straight to the folder that 
+matches all of those criteria.)

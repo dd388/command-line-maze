@@ -1,0 +1,6 @@
+Commands you can use:
+* ls
+* grep
+* wc
+* tail
+* cd
